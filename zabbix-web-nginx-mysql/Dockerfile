@@ -1,1 +1,1 @@
-FROM zabbix/zabbix-web-nginx-mysql:ubuntu-4.0.0
+FROM zabbix/zabbix-web-nginx-mysql:centos-4.0.0
